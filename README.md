@@ -1,2 +1,2 @@
 # KolorKast
-Color detection app for color blind people. An app or website that allows access to a webcam/camera in order to detect the color being shown. Colors will be specific, such as lime green or cyan instead of green or blue. Our plan is to implement this idea using AI with python. 
+KolorKast is a color detection Android app created for color blind people. The user takes a photo of an object and drags their finger across the screen to the desired area of the photo. KolorKast determines the RGB values, Hex Value, Hue Value, and the name of the color and displays this information on the screen.
